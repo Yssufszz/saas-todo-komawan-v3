@@ -24,7 +24,7 @@ const contributors = [
     {
       name: "Dosen Terkait",
       role: "Pembimbing Akademik",
-      description: "Memberikan arahan, koreksi, dan masukan yang berharga dalam proses pengembangan aplikasi ini",
+      description: "Terimakasih kepada bapak Iskandar Ikbal, S.T., M.Kom sebagai dosen matakuliah Komputasi Awan yang Memberikan arahan, koreksi, dan masukan yang berharga dalam proses pengembangan aplikasi ini",
       icon: AcademicCapIcon, 
       color: "from-purple-500 to-indigo-500"
     },
