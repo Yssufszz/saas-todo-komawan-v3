@@ -15,9 +15,9 @@ const ThanksTo = () => {
 
 const contributors = [
     {
-      name: "Tim Developer KerjainWoy",
-      role: "Core Development Team",
-      description: "Tim developer yang berdedikasi membangun KerjainWoy dari awal hingga menjadi aplikasi yang powerful",
+      name: "Kelompok SaaS KerjainWoy",
+      role: "Kelompok SaaS",
+      description: "Yusuf Simangunsong, Zharfan A.S, Alfin Achmad Zaidan, Fayadh Muhammad, Nuri Hanang, Stefanus, Hana, Melvin, Amira, Cissy, Zaidan, dan Fajar.",
       icon: CodeBracketIcon,
       color: "from-blue-500 to-cyan-500"
     },
